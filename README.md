@@ -1,12 +1,19 @@
-[README.md](https://github.com/user-attachments/files/35452727/README.md)
+<!-- POV_SLIDES_START -->
 
 
+![What to Expect (Realistic Performance Gains)](https://raw.githubusercontent.com/robinvangrootveld/Path-of-Valheiman-Performance-Boosts/main/slide_01_what_to_expect.gif)
+
+![Performance Pillars](https://raw.githubusercontent.com/robinvangrootveld/Path-of-Valheiman-Performance-Boosts/main/slide_02_mod_application_and_pillars.gif)
+
+
+---
+<!-- POV_SLIDES_END -->
 
 # Path of Valheiman Performance Boosts
 
 > **100% Pure Performance — Zero Gameplay Changes**
 >
-> Never alters Path of Valheiman's balance, skill trees, combat math, drop rates, recipes, or design. Works purely behind the scenes for smoother solo and multiplayer play, automatically scaling from slower laptops to high-performance desktops. Safe to add or remove at any time without affecting saves.
+> Never alters Path of Valheiman's balance, skill trees, combat math, drop rates, recipes, or design. Works purely behind the scenes for smoother solo and multiplayer play, automatically scaling from laptops to high-refresh desktops. Safe to add or remove at any time without affecting saves.
 
 ---
 
