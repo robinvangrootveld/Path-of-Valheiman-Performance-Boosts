@@ -1,7 +1,7 @@
 <!-- POV_SLIDES_START -->
 
 
-![What to Expect (Realistic Performance Gains)](https://raw.githubusercontent.com/robinvangrootveld/Path-of-Valheiman-Performance-Boosts/main/slide_01_what_to_expect_1.gif)
+(![Slide 1](https://raw.githubusercontent.com/robinvangrootveld/Path-of-Valheiman-Performance-Boosts/5a527adc2bd3550f6794bddabfff1d88094d1260/slide_01_what_to_expect_1.gif)
 
 (![Slide 2](https://raw.githubusercontent.com/robinvangrootveld/Path-of-Valheiman-Performance-Boosts/main/slide_02_mod_application_and_pillars.gif))
 
