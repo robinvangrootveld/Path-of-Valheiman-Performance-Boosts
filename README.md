@@ -80,7 +80,7 @@
   - *Solution:* Holds non-critical progress saves until active combat settles (always saving immediately on death, logout, or exit) and reduces minimap pin rebuild stutters.
 - **Valheim `1.0.30 – 1.0.31` Cleanups, Overlap Safety & Startup Status**
   - *Problem:* Redundant snow checks outside Deep North, harmless log spam, stacked background timers, solo multiplayer checks, and silent mod overlaps waste frame time or cause hard-to-spot conflicts in larger modpacks.
-  - *Solution:* Aligns with `1.0.30+` memory cleanup, skips unnecessary Deep North snow checks in other biomes, silences harmless Deep North log spam, spreads background timers, pauses multiplayer-only checks during solo play, and prints a concise light-blue Main Menu status line confirming active boosts (or any feature that automatically yielded to another mod).
+  - *Solution:* Aligns with `1.0.30+` memory cleanup, skips unnecessary Deep North snow checks in other biomes, silences harmless Deep North log spam, spreads background timers, pauses multiplayer-only checks during solo play, and prints a Main Menu status line confirming active boosts (or any feature that automatically yielded to another mod).
 
 
 ---
