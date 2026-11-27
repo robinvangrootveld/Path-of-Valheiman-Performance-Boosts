@@ -8,7 +8,7 @@ Pure-performance release bringing automatic feature-level mod-overlap protection
 ### Automatic Mod-Overlap Safety & Clear Main Menu Status
 
 - **Automatic Mod-Overlap Safety (`Auto-Yield on Mod Overlap`):** Enabled by default in **01. General** right beside **Allow Untested Versions**. Runs a single lightweight check once on the Main Menu after all mods finish loading (zero overhead during gameplay). If another installed mod behaviorally overlaps with a specific boost, only that overlapping feature steps aside cleanly while everything else keeps running—pausing the entire mod only if a core lifecycle system conflicts.
-- **Clear Main Menu Status Line:** Prints one concise light-blue status line near the bottom of the BepInEx console (mirrored once to `BepInEx/LogOutput.log`) on Main Menu load so you can confirm at a glance that everything is active—or see exactly which feature stepped aside and why.
+- **Clear Main Menu Status Line:** Prints one status line near the bottom of the BepInEx console (mirrored once to `BepInEx/LogOutput.log`) on Main Menu load so you can confirm at a glance that everything is active—or see exactly which feature stepped aside and why.
 
 
 ### Universal Endgame Hall Biome Guard
