@@ -98,7 +98,7 @@
 
 Works out of the box with zero setup. Adjust any option in **Gale Mod Manager's Config Editor**, an in-game **Configuration Manager**, or `BepInEx/config/robin.valheim.pov_performance_boosts.cfg`:
 
-1. **01. General** — Master toggle, update safety guard, and **Auto-Yield on Mod Overlap** (On by default; automatically detects mod overlaps once on Main Menu load, steps aside only conflicting features, and reports the result in a concise light-blue console status line).
+1. **01. General** — Master toggle, update safety guard, and **Auto-Yield on Mod Overlap** (On by default; automatically detects mod overlaps once on Main Menu load, steps aside only conflicting features, and reports the result in a console status line).
 2. **02. Combat & World Warmups** — Main-menu warmup, gear/biome pre-warming, Monolith visuals, altars, combat text, and sounds.
 3. **03. Combat Efficiency** — Unused skill/weapon skipping, multi-shot reuse, and cosmetic hit-effect limiter.
 4. **04. UI, World & Background Pacing** — Exploration and dungeon pacing, Hall visual culling and surface guard, Passive Tree and minimap smoothing, world loading, water refresh, save pacing, memory cleanup tuning, and solo stand-down.
