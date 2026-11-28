@@ -5,7 +5,7 @@
 - **Automatic ValheimAVX Support:** Works out of the box with ValheimAVX 1.1.31 and newer with zero setup. Both mods now share the workload automatically so you get full speed with no conflicts.
 - **Stronger Endgame Hall & Monolith Protection:** Kept Path of Valheiman's Endgame Hall and Monolith safeguards active even when ValheimAVX is installed, preventing unnecessary background spawns and stutter during heavy runs.
 - **Config Layout:** Updated. Your existing settings migrate automatically on first launch.
-- **Why I Choose ValheimAVX - See bottom of Readme page**
+- **Why I Recommend ValheimAVX** - See bottom of readme page
 
 
 ---
